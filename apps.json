@@ -1,7 +1,7 @@
 {
   "name": "AltStore",
   "identifier": "com.rileytestut.AltStore",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/MaltronCraft/AltStore-Apps.json/master/apps.json",
   "apps": [
     {
       "name": "AltStore",
